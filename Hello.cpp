@@ -10,7 +10,7 @@ using namespace std;
 
 int main()
 {
-    // print Hello world
+    // Print Hello World
     cout << "Hello world!" << endl;
 
     std : cout << "My name is Saddam Yahya" << endl;

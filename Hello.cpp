@@ -2,7 +2,7 @@
  [AUTHOR]:  Saddam Arbaa
  [Email] :  <saddamarbaas@gmail.com>
 
-      MY first C++ Program   */
+      MY first Hello world C++ Program   */
 
 #include <iostream>
 

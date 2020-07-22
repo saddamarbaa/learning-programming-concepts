@@ -2,7 +2,7 @@
  [AUTHOR]:       Saddam Arbaa
  [Email] :      <saddamarbaas@gmail.com>
 
-               C++ program Circle of Area */
+              C++ program to Calculate the area of  circle */
 
 #include <iostream>
 

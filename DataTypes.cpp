@@ -38,6 +38,6 @@ int main ()
     cout << "char : " << letter << "\n";
     cout << "boolean: " << boolean << "\n";
     cout << "string: " << name << "\n";
-
+  
   return 0;
 }

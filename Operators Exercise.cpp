@@ -19,7 +19,7 @@ int main()
       x = 1 ^ 7;
       x = 6;
     */
-    //result is 6
+    //result is  6
     cout << x << endl;
     return 0;
 }

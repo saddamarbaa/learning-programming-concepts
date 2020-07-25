@@ -1,7 +1,7 @@
 /**
                 : C++ Data Types
 
-   [PROG]	    : Union by Rank implementation
+   [PROG]	    :  C++ Data Types
 
    [AUTHOR]		: Saddam Arbaa <saddamarbaas@gmail.com>  */
 

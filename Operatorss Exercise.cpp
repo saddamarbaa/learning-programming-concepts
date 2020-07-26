@@ -1,8 +1,8 @@
 /**
 
-   [PROG]	    : C++ / (Exercise) Operators 
+   [PROG]	     : C++ / (Exercise) Operators 
 
-   [AUTHOR]		: Saddam Arbaa <saddamarbaas@gmail.com>  */
+   [AUTHOR]		  : Saddam Arbaa <saddamarbaas@gmail.com>  */
 
 #include <iostream>
 
@@ -20,6 +20,6 @@ int main()
        (5) m = 3
        */
     // result 3
-    cout<<m;
+    cout << m;
     return 0;
 }

@@ -18,7 +18,7 @@ int main()
 {
 
     // This is a comment
-    std :: cout << "Hello World!" << endl;;  // prints Hello World!
+    std :: cout << "Hello World!" << endl;  // prints Hello World!
 
     std :: cout << "I'm  learning a C++ programing" << endl;  // prints I'm a C++ program
 

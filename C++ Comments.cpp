@@ -1,8 +1,8 @@
 
 /**
-     [PROG]	    :C++ comments
-     [AUTHOR]   : Saddam Arbaa
-     [Email]    : <saddamarbaas@gmail.com>
+     [PROG]	  : C++ comments
+     [AUTHOR]    :  Saddam Arbaa
+     [Email]     :  <saddamarbaas@gmail.com>
 
      C++ comments
      my second program in C++ with more comments

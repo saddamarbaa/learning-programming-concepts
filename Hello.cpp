@@ -1,6 +1,6 @@
 /*
- [AUTHOR]:  Saddam Arbaa
- [Email] :  <saddamarbaas@gmail.com>
+ [AUTHOR] :  Saddam Arbaa
+ [Email]  :  <saddamarbaas@gmail.com>
 
       MY first Hello world C++ Program.*/
 

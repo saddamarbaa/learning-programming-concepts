@@ -1,4 +1,6 @@
-/*       C++ Conditions
+/*     
+       C++ Conditions
+       
    [AUTHOR]: Saddam Arbaa
    [Email] : <saddamarbaas@gmail.com>
 

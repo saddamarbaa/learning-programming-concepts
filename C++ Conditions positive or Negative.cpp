@@ -1,8 +1,15 @@
 
-/*
- simple if - else statement
- write program that accept an integer from the user and
- print out whether it is positive or Negative number
+/**
+                
+   [PROG]	    :  C++ Conditions
+   
+   [AUTHOR]	 	:  Saddam Arbaa
+   
+   [Email]    :  <saddamarbaas@gmail.com>  
+   
+   simple if - else statement
+   write program that accept an integer from the user and
+   print out whether it is positive or Negative number
 
 */
 

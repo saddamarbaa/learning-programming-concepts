@@ -4,7 +4,7 @@
 
    [AUTHOR]		: Saddam Arbaa <saddamarbaas@gmail.com>
 
-   program for string Concatenation in C++ */
+   program for string Concatenation and String Length in C++ */
 
 
 // Include the string library

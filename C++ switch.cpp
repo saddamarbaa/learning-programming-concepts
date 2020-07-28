@@ -1,6 +1,6 @@
 
 /*
-   [AUTHOR]: Saddam Arbaa
+   [AUTHOR] : Saddam Arbaa
 
    [Email] : <saddamarbaas@gmail.com>
 

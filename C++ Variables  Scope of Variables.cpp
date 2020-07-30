@@ -1,5 +1,5 @@
 /**
-    [PROG]	    :  Scope of Variables in C++
+   [PROG]	    :  Scope of Variables in C++
    [AUTHOR]		:  Saddam Arbaa
    [Email]      : <saddamarbaas@gmail.com>
 
@@ -17,7 +17,7 @@ int x = 200, y = 220;
 
 int main()
 {
-    // changing value of global x  and variable from main function
+    // changing value of global x  and y variable from main function
     x = 333;
     y = 4444;
 
@@ -50,7 +50,7 @@ int main()
           //print local variable x which is in this bloock
           cout << "Print local variable  x  = " <<x << endl;
 
-          //print local variable  y  which is in this bloock
+         //print local variable  y  which is in this bloock
          cout << "Print local variable  y  = " <<y << endl;
 
          //print Global variable  x using scope operator
@@ -61,7 +61,7 @@ int main()
 
     }/** End of block */
 
-    // call func() function
+     // call func() function
      func();
 
     // signal to operating system everything works fine

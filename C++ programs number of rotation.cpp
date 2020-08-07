@@ -1,5 +1,5 @@
 /** 
-       How many times is a sorted array rotated?
+       How many times is a sorted array rotated? 
 
    [AUTHOR] :  Saddam Arbaa
    [Email]  :  <saddamarbaas@gmail.com>

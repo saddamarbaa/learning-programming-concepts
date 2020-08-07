@@ -1,6 +1,6 @@
 /**  
 [AUTHOR]: Saddam Arbaa
-[Email] : <saddamarbaas@gmail.com>
+[Email] : <saddamarbaas@gmail.com> 
 
  do while loop examples in C++
  This example will print sum and average of odd numbers

@@ -65,7 +65,7 @@ int main()
 
 int find_Rotation_Count(int vector[], int N)
 {
-    // declare 3 variable
+    // declare  variable
     int low, high, mid, next, previous;
     low = 0;
     high = N - 1 ;

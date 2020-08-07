@@ -2,7 +2,7 @@
 [AUTHOR]: Saddam Arbaa
 [Email] : <saddamarbaas@gmail.com>
 
-  do while loop example
+  do while loop example 
 
   c++ program to print out multiple of number from 1 to 10
 */

@@ -1,6 +1,6 @@
 /**
 [AUTHOR]: Saddam Arbaa
-[Email] : <saddamarbaas@gmail.com>
+[Email] : <saddamarbaas@gmail.com> 
 
   while loop example
 

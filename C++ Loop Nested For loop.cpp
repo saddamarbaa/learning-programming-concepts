@@ -32,7 +32,7 @@ int main()
     First, the 'i' variable is initialized to 1 and then program control passes to the i<=n.
     The program control checks whether the condition 'i<=n' is true or not.
     If the condition is true, then the program control passes to the inner loop.
-    The inner loop will get executed until the condition is true.
+    The inner loop will get executed until the condition is true. 
     After the execution of the inner loop, the control moves back to the update of the outer loop, i.e., i++.
     After incrementing the value of the loop counter, the condition is checked again, i.e., i<=n.
     If the condition is true, then the inner loop will be executed again.

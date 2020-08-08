@@ -3,7 +3,7 @@
 
      [Email] : <saddamarbaas@gmail.com>
 
-     program to find All the digits of any given decimal number */
+     program to find All the digits of any given decimal number  */
 
 #include <iostream>
 using namespace std;

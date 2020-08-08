@@ -1,5 +1,5 @@
 /**
-[AUTHOR]: Saddam Arbaa
+[AUTHOR]: Saddam Arbaa 
 [Email] : <saddamarbaas@gmail.com>
 
  for loop examples in C++

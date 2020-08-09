@@ -32,4 +32,4 @@ int main()
 
      return 0;// signal to operating system everything works fine
 
-}/** End of main function */
+}/** End of main function  */

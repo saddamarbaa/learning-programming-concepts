@@ -17,8 +17,8 @@ int main()
     int i, N, sum;
 
     /*read value of N*/
-    printf("Enter the value of N: ");
-    scanf("%d",&N);
+    cout << "Enter the value of N: ";
+    cin >> N;
 
     /*set sum by 0*/
     sum = 0;
@@ -28,7 +28,7 @@ int main()
         sum = sum + i;
 
     /*print the sum*/
-    printf("Sum of the series is: %d\n",sum);
+    cout << "Sum of the series is: " << sum << endl;
 
      return 0;// signal to operating system everything works fine
 

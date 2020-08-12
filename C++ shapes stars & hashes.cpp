@@ -2,7 +2,7 @@
 [AUTHOR]: Saddam Arbaa
 [Email] : <saddamarbaas@gmail.com>
 
-C++ Nested Loop Example to Draw different idea of stars * and hashes -
+C++ Nested Loop Example to Draw different idea of stars * and hashes 
  like the one  blow
 
  *

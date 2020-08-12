@@ -29,7 +29,7 @@ using namespace std;
 int main()
 {
     int rows; //variable for row
-    // asking user input to enter number of rows
+    // asking user input to enter  number of rows
     cout << "Enter number of rows :";
     cin >> rows;
 

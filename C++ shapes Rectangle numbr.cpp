@@ -32,7 +32,7 @@ int main()
     cout << "enter number of Rows :";
     cin >> row;
 
-    // outer loop
+    // outer  loop
     for(int i = 1; i <= row; i++)
     {
         // inner loop

@@ -30,7 +30,7 @@ int main()
     cin >> rows;
     cout << endl;// new line
 
-    // outer loop need 3 nested loop
+    // outer loop need 3  nested loop
     for(int i = 1; i <= rows; i++)
     {
         // first inner loop

@@ -1,7 +1,7 @@
 /**
 [AUTHOR]: Saddam Arbaa
 [Email] : <saddamarbaas@gmail.com>
-
+ 
 C++  Loop Example
 c++ program to Draw Rectangle of numbers like blow
 (number of row will entered by user)

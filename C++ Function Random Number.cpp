@@ -20,7 +20,6 @@ int main()
 
 }/** End of main function */
 
-
 /**
    Function to generate Random Numbers from 1 to 20
  */

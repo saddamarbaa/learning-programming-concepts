@@ -32,7 +32,7 @@ int main()
     // outer loop need 3 nested loop
     for(int i = 1; i <= rows; i++)
     {
-        // first inner loop
+        // first inner  loop
         for(int k = 1; k <= rows - i; k++)
         {
            cout << "  " ; // print spaces

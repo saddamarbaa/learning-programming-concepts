@@ -1,15 +1,14 @@
-
-/**
-                    Data Types
-   [PROG]	    :    C++ Data Types
-   [AUTHOR]		:   Saddam Arbaa <saddamarbaas@gmail.com>  */
+/*
+    [PROGRAM] :  C++ Data Types
+    [AUTHOR]  :  Saddam Arbaa
+    [Email]   :  <saddamarbaas@gmail.com> */
 
 #include <iostream>
-
 #include <string>
 
 using namespace std;
 
+// the main Function
 int main ()
 {
     // declare Integer variable
@@ -38,5 +37,6 @@ int main ()
     cout << "boolean: " << boolean << "\n";
     cout << "string: " << name << "\n";
   
-  return 0;
-}
+   return 0;// signal to operating system everything works fine
+
+}/** End of main function */

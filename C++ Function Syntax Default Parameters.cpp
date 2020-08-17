@@ -2,7 +2,7 @@
     [PROGRAM] : C++ Default Parameters
     [AUTHOR]  :  Saddam Arbaa
     [Email]   :  <saddamarbaas@gmail.com>
-    C++ function with  Default Parameters  */
+    C++ function with  Default Parameters   */
 
 #include <iostream>
 using namespace std;

@@ -1,4 +1,3 @@
-
 /**
     [PROGRAM] : function Parameters and Arguments
     [AUTHOR]  :  Saddam Arbaa
@@ -47,7 +46,6 @@ int main()
 
 
 // void Function definition
-
 void myFunction(string name)
 {
     // the body of the function (definition)

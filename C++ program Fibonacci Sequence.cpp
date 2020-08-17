@@ -18,7 +18,7 @@ int main()
     // get valid number
     do
     {
-        // asking valid positive number from user
+        // asking valid positive number from user 
         cout << "Enter N --> N must be bigger than zero : ";
         cin >> n;
     }while(n <= 0);

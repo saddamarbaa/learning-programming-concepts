@@ -1,18 +1,15 @@
-
- 
 /**
     [PROGRAM] :  C++ Pointers
     [AUTHOR]  :  Saddam Arbaa
     [Email]   :  <saddamarbaas@gmail.com>
 
-     program to illustrate Pointers in C++
+     Program to Illustrate Pointers in C++
      Pointers is a variable that stores the memory address as its value.
      so we can say that A pointer is a variable whose value is the
      address of another variable.
      Pointers can be created with the * operator.
      Syntax
      type *var-name;     */
-
 
 #include <iostream>
 
@@ -64,7 +61,6 @@ int main()
 
     // Output the new value of the pointer (Pizza)
     cout << *ptr << "\n";
-
 
     // A dnum variable of type double
     double dnum = 99.9;

@@ -2,7 +2,7 @@
     [PROGRAM] : C++ Functions
     [AUTHOR]  :  Saddam Arbaa
     [Email]   :  <saddamarbaas@gmail.com>
-    program to calculate Factorial of given number N */
+   Factorial Program using Loop */
 
 #include <iostream>
 using namespace std;

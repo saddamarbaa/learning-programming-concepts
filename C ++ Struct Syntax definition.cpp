@@ -1,4 +1,3 @@
-
 /**
     [PROGRAM] : C/C++ struct
     [AUTHOR]  :  Saddam Arbaa
@@ -14,7 +13,6 @@
 
 #include <iostream>
 using namespace std;
-
 
 //define Employee struct
 typedef struct

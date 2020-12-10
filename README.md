@@ -5,3 +5,13 @@ I made this repository to post my C++ code  and document my progress while  Lear
 ## Recommended Books for the  Course and Reference Source
 
 C++. How To Program  by Paul J. Deitel 
+
+
+## TODO 
+
+C++ OOP
+
+C++ Iterator Library - advance
+
+
+The C++ STL Library
